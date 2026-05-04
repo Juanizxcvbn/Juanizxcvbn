@@ -1,7 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=Juani01&fontSize=70&fontColor=0d1117&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20%7C%20Mobile%20Repair%20Tech%20%7C%20Argentina%20🇦🇷&descAlignY=55&descSize=16&descColor=0d1117)
- 
+<img src="https://media2.giphy.com/media/DqiMTFxiXx0VaVZQbF/giphy.gif" width="500" alt="hacking gif"/>
+
 ### 🛡️ Cybersecurity Student · 🔧 Mobile Repair Tech · 🇦🇷 Argentina
  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Aprendiendo+Ciberseguridad+%F0%9F%94%90;Learning+Cybersecurity+%F0%9F%94%90;Bug+Bounty+Hunter+in+training...;Ethical+Hacking+%7C+Hacking+%C3%89tico;Mobile+Repair+Tech+%F0%9F%94%A7;UTN+Diplomatura+en+Ciberseguridad)
