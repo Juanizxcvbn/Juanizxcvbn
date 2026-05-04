@@ -1,12 +1,6 @@
 <div align="center">
-```
- ██╗██╗   ██╗ █████╗ ███╗   ██╗██╗ ██████╗  ██╗
- ██║██║   ██║██╔══██╗████╗  ██║██║██╔═══██╗███║
- ██║██║   ██║███████║██╔██╗ ██║██║██║   ██║╚██║
-██╗██║██║ ██║██╔══██║██║╚██╗██║██║██║   ██║ ██║
-╚█████╔╝╚████╔╝██║  ██║██║ ╚████║██║╚██████╔╝ ██║
- ╚════╝  ╚═══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝  ╚═╝
-```
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=Juani01&fontSize=70&fontColor=0d1117&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20%7C%20Mobile%20Repair%20Tech%20%7C%20Argentina%20🇦🇷&descAlignY=55&descSize=16&descColor=0d1117)
  
 ### 🛡️ Cybersecurity Student · 🔧 Mobile Repair Tech · 🇦🇷 Argentina
  
