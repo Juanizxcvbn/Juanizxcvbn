@@ -1,14 +1,17 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Juan+Ignacio+Silveira;eJPTv2+Certified+%F0%9F%9B%A1%EF%B8%8F;SOC+Analyst+N1+%7C+Junior+Pentester;la+computadora+es+un+arma%2C+no+un+juguete." alt="Typing SVG" />
-**🇦🇷 Buenos Aires, Argentina · Open to work: SOC Analyst N1 / Junior Pentester**
- 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Juan+Ignacio+Silveira;eJPTv2+Certified+%F0%9F%9B%A1%EF%B8%8F;SOC+Analyst+N1+%7C+Junior+Pentester;la+computadora+es+un+arma%2C+no+un+juguete." alt="Typing SVG" />
+
+<p><b>🇦🇷 Buenos Aires, Argentina · Open to work: SOC Analyst N1 / Junior Pentester</b></p>
+
 [![eJPTv2](https://img.shields.io/badge/eJPTv2-Certified-00ffff?style=for-the-badge&logo=hackthebox&logoColor=black)](https://certs.ine.com/d2b13082-243d-4e5b-892a-691ae397534f)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanizxcvbn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanizxcvbn)
 [![Web](https://img.shields.io/badge/Web-juanicerouno.com-ff00ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juanicerouno.com)
 [![Cheatsheets](https://img.shields.io/badge/Cheatsheets-Pentesting-111111?style=for-the-badge&logo=gnubash&logoColor=00ffff)](https://juanicerouno.com/cheatsheets/)
- 
+
 </div>
----
+
+<hr>
  
 ## 🧑‍💻 Sobre mí / About me
  
